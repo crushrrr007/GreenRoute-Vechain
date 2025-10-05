@@ -172,7 +172,7 @@ pnpm start
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions! 
 
 ### Development Workflow
 1. Fork the repository
@@ -192,12 +192,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Next.js Team** - For the amazing React framework
 - **shadcn/ui** - For beautiful component library
 
-## 📞 Support
-
-- **Documentation**: [docs.greenroute.app](https://docs.greenroute.app)
-- **Issues**: [GitHub Issues](https://github.com/crushrrr007/GreenRoute-Vechain/issues)
-- **Discord**: [Join our community](https://discord.gg/greenroute)
-- **Email**: support@greenroute.app
 
 ## 🌟 Roadmap
 
