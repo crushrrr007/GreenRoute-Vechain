@@ -6,7 +6,13 @@ import { Web3Provider } from "@/components/providers/web3-provider"
 
 export function ClientProviders({ children }: { children: React.ReactNode }) {
   return (
-    <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
+    <ThemeProvider 
+      attribute="class" 
+      defaultTheme="dark" 
+      enableSystem 
+      disableTransitionOnChange
+      suppressHydrationWarning
+    >
       <Web3Provider>{children}</Web3Provider>
     </ThemeProvider>
   )
